@@ -25,11 +25,11 @@
 
 ### 📚 Tecnologias (aprendiz)
 
-◼️ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="símbolo do HTML" width="100px"/><br>
-◼️ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="símbolo do Python" width="100px"/><br>
-◼️ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="símbolo do JAVA" width="100px"/><br>
-◼️ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="símbolo do Rust" width="100px"/><br>
-◼️ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="símbolo do Solidity" width="100px"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="símbolo do HTML" width="75px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="símbolo do Python" width="75px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="símbolo do JAVA" width="75px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="símbolo do Rust" width="75px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="símbolo do Solidity" width="75px"/>
 
 ---
 
