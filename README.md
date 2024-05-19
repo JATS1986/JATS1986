@@ -4,7 +4,7 @@
 
 ---
 
-<p><em>O tempo é um mero portal entre o ontem e o hoje sem intervalo</em></p>
+<p><em>O tempo é um mero portal entre o ontem e o hoje sem intervalo</em></p> ☘️🤞
 
 ---
 
