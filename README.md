@@ -40,4 +40,4 @@
 
 ---
 
-[JATS1986 GitHub stats](https://github-readme-stats.vercel.app/api?username=JATS1986&show_icons=true&theme=radical)
+![JATS1986 GitHub stats](https://github-readme-stats.vercel.app/api?username=JATS1986&show_icons=true&theme=radical)
