@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGduMG4zam11a256N2Nzemxra3oyejdrOWl4Y25wZWo0ZzZlZ3MxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="gif código" width="300px"/>
+![gif programação](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGduMG4zam11a256N2Nzemxra3oyejdrOWl4Y25wZWo0ZzZlZ3MxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif)
 
 ---
 
