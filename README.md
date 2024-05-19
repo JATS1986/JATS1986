@@ -5,6 +5,9 @@
 ---
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGduMG4zam11a256N2Nzemxra3oyejdrOWl4Y25wZWo0ZzZlZ3MxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="gif código" width="300px"/>
+
+---
+
 <p><em>O tempo é um mero portal entre o ontem e o hoje sem intervalo</em></p>
 
 ---
@@ -13,7 +16,7 @@
 
 ### 🗺 Brasil 🇧🇷
 
-### 👨‍🎓 DIO.me / Web3Dev
+### 👨‍🎓 DIO.me / Web3Dev (Programação)
 
 ### 🏫 Formação: 🌱- Eng. Agrônomo / 👨‍🏫- Matemática (Licenciatura)
 
