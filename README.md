@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ Eu
 
-### 🏡 Brasil :brazil:
+### 🏡 Brasil <img src="/01-brasil.ai" width="5px"/>
 
 ### 👨‍🎓 DIO.me / Web3Dev
 
