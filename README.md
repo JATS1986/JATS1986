@@ -39,7 +39,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JATS1986&hide_progress=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JATS1986&layout=donut-vertical)](https://github.com/JATS1986/github-readme-stats)
 
 ![JATS1986 GitHub stats](https://github-readme-stats.vercel.app/api?username=JATS1986&show_icons=true&theme=radical)
