@@ -39,4 +39,4 @@
 
 ---
 
-[![JATS1986's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?JATS1986=ffflabs)](https://github.com/JATS1986/github-readme-stats)
+![JATS1986's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?JATS1986=ffflabs)](https://github.com/JATS1986/github-readme-stats)
